@@ -73,7 +73,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/client-side-routing.git
+git clone https://github.com/Ayankhan-01/client-side-routing.git
 
 # Navigate into the project folder
 cd client-side-routing/my-app
